@@ -1,1 +1,10 @@
-ss
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/blueMickeyVentures/blueMickeyVentures/blob/main/mickey_mouse_ears%20-%20Copy.png",
+		"url_png_logo": "https://github.com/blueMickeyVentures/blueMickeyVentures/blob/main/mickey_mouse_ears%20-%20Copy.png",
+		"location": "USA",
+		"social": {
+			"twitter_handle": "@PoolsMickey"
+		}
+	}
+}
